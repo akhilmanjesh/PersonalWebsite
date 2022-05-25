@@ -1,0 +1,117 @@
+header {
+  
+}
+
+body {
+  grid-template-rows: 50px 1fr 50px;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+      "header"
+      "main"
+      "footer";
+  height: 100vh;
+}
+
+.App-header {
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 80px; 
+  font-family: 'Inter', sans-serif;
+}
+
+
+.heading h1 {
+  font-weight: bolder;
+}
+
+.aboutme {
+  font-size: 18px;
+}
+
+.titlehead {
+  margin-left: 80px;
+  margin-right: 80px; 
+}
+
+.titlehead h2 {
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+.exptxt {
+  font-size: 18px;
+}
+
+.exps {
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  margin-left: 80px;
+  margin-right: 80px; 
+  gap: 10px;
+  flex-basis: 50%;
+}
+
+.exp {
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  outline-style: solid;
+  outline-width: 1px;
+  outline-color: #B7B9BB;
+  border-radius: 8px;
+  gap: 10px;
+  background-color: #eeeeee;
+  filter: drop-shadow(1px 1px 1px grey);
+  /* width: 466px;
+  height: 151px; */
+}
+.exp img {
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+}
+
+.titles {
+  width: 250px;
+}
+
+.img {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.titles {
+  flex-direction: column;
+  display: flex;
+  gap: 10px;
+  padding-right: 25px;
+}
+
+.company {
+  padding-top: 23px;
+  font-weight: bold;
+}
+
+.posdate {
+  padding-top: 0px;
+}
+
+.posdate {
+  flex-direction: column;
+  display: flex;
+}
+
+.links {
+  margin-left: 40px;
+}
+.links :hover{
+  color: black;
+}
+
+.link-cont {
+  margin-left: 40px;
+  gap: 5px;
+}
