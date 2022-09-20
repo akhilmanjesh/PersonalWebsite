@@ -29,7 +29,7 @@ function App() {
                     <div class="company">Better Innovations</div>
                       <div class="posdate">
                         <div>Project Manager</div>
-                        <div>November 2019 - Current</div>
+                        <div>November 2019 - August 2022</div>
                       </div>
                   </div>
               </div>
@@ -38,8 +38,8 @@ function App() {
                   <div class="titles">
                     <div class="company">AIN Enterprises</div>
                       <div class="posdate">
-                        <div>Software Engineer Intern</div>
-                        <div>September 2020 - Apr 2022</div>
+                        <div>Co-Founder</div>
+                        <div>November 2020 - Apr 2022</div>
                       </div>
                   </div>
               </div>
@@ -48,8 +48,8 @@ function App() {
                   <div class="titles">
                     <div class="company">HayhaBots Incorporated</div>
                       <div class="posdate">
-                        <div>IT Specialist Intern</div>
-                        <div>August 2020 – June 2021</div>
+                        <div>DevOps Intern</div>
+                        <div>January 2021 – June 2021</div>
                       </div>
                   </div>
               </div>
@@ -84,7 +84,7 @@ function App() {
               <a style={{textDecoration: 'none'}} href="https://www.linkedin.com/in/akhilmanjesh/">LinkedIn</a>
             </div>
             <div class="link-cont">
-              <a style={{textDecoration: 'none'}} href="#">Resume</a>
+              <a style={{textDecoration: 'none'}} href="https://docs.google.com/document/d/1UpVmPeQi5e9CzXf4COJRX5qDsNsd9oLH/edit?usp=sharing&ouid=110069188922391854040&rtpof=true&sd=true">Resume</a>
             </div>
             <div class="link-cont">
             <a href="mailto:akhil.manjesh@sjsu.edu?subject=Inquiry from your website">Email</a>
