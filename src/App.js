@@ -15,13 +15,13 @@ function App() {
       <header className="App-header">
         <div class="heading"><h1 className='headingtitle'>Hi, I’m Akhil! </h1>
         <p className='aboutme'>
-        I’m a software developer living in Cupertino, California. I have interests in Finance, Crypto, Automation, Lifting Weights, and Hiking. Currently attending San Jose State University. 
+        I’m a software developer living in Cupertino, California. I have interests in Finance, Automation, Lifting Weights, and Hiking. Currently attending San Jose State University. 
         </p>
         </div>
       </header>
       <body>
         <div class="cont-1">
-          <div class="titlehead"><h2>Experience</h2><p className='exptxt'>I'm currently working at Better Innovations leading a majority of the frontend and backend development.  I'm currently also learning to develop smart tools in the Metaverse.</p></div>
+          <div class="titlehead"><h2>Experience</h2><p className='exptxt'>Open to new oppurtunities to learn!</p></div>
             <div class="exps">
               <div class='exp'>
                 <div class="img"><img src={bi}></img></div>
